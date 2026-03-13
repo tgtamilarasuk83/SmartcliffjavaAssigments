@@ -8,6 +8,8 @@ package handsOn3;
 
 import java.util.*;
 
+
+
 public class SalaryIncrement {
 
     static void calculateRating(int sal, float rating) {
